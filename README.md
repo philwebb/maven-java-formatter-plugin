@@ -10,3 +10,14 @@ This software is provided WITHOUT ANY WARRANTY.
 As the project is still in its early conception stage, please BACKUP your source files before experimenting with this plugin.
 
 Any loss of codes caused by the usage of this plugin is not the responsibility of the author. 
+
+Eclipse Compatiblity
+
+---------------------------------------------------------
+| Plugin Version	| 	Eclipse Version		|
+| --------------	|	---------------		|
+| 0.1.0 		|	3.3.0			|
+| 0.2.0 - 0.3.1 	|	3.5.2			|
+| 0.4 			|	3.8.1 			|
+| 0.5			|	4.4.1 (in-progress	|
+---------------------------------------------------------
